@@ -1,7 +1,7 @@
 """
 Autores:
 - Joe Martins de Pontes
-- Giovanni Marquesini Domingos
+- Giovani Marquesini Domingos
 
 Pré-diagnóstico com base nos valores de glicemia coletados quando o paciente está em jejum, pós-sobrecarga
 e glicemia casual.
