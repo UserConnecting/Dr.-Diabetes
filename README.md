@@ -1,4 +1,5 @@
-# Dr.-Diabetes
+<h1 align="center"> Dr.-Diabetes </h1> 
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20FINALIZADO&color=GREEN&style=for-the-badge"/></p>
 
 Programa capaz de dizer se o paciente está com a Glicose Normal, Glicose Diminuída ou Apresentar o diagnóstico de Diabetes Mellitus.
 
