@@ -1,4 +1,4 @@
-<h1 align="center"> Dr.-Diabetes </h1> 
+<h1 align="center"> Dr. Diabetes </h1> 
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/></p>
 
 <h1 align="center"> :heavy_check_mark: </h1>
