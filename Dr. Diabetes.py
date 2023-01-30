@@ -1,6 +1,6 @@
 """
 Autor:
-- Joe Martins de Pontes
+- Joe Martins
 
 Pré-diagnóstico com base nos valores de glicemia coletados quando o paciente está em jejum, pós-sobrecarga
 e glicemia casual.
