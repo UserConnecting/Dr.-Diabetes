@@ -3,7 +3,6 @@
 
 <h1 align="center"> :heavy_check_mark: </h1>
 <p align="center"> Linguagem utilizada: Python <p>
-<p align="center"> Autor: Joe Martins <p>
 
 
 <h1 align="center"> :speech_balloon: </h1>
